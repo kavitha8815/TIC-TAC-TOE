@@ -26,6 +26,7 @@ where to use the core concepts of java in real life applications.
    cd tic-tac-
 ## compile the code
 Run the game
+## Any queries
 Feel free to ask me any doubts and any modifications if it requires.
 mail to:kavithamukkala04@gmail.com
  
